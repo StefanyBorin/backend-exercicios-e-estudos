@@ -1,0 +1,8 @@
+const disjuntores = [false, false, true, true, false, true, false, true, , , , ,true];
+
+for (let i = 0; i < disjuntores.length; i++){
+    if(disjuntores[i]){
+        console.log(i)
+    }
+}
+
